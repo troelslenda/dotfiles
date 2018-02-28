@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Hopscotch",
+    "editor.fontSize": 18,
+    "editor.lineHeight": 28,
+    "editor.fontFamily": "Anonymous Pro, monospace",
+    "terminal.integrated.fontFamily" : "Anonymous Pro, monospace",
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.lineHeight": 1.6, 
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+}
