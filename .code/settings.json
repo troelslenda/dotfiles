@@ -9,7 +9,7 @@
     "workbench.iconTheme": "Monokai Classic Icons",
     "workbench.activityBar.visible": true,
     "editor.minimap.enabled": false,
-    "window.zoomLevel": -3,
+    "window.zoomLevel": 0,
     "git.autofetch": true,
     "git.confirmSync": false,
     "workbench.colorCustomizations": {
@@ -25,7 +25,7 @@
         "tab.activeBorder": "#5C6BC0",
         "notificationLink.foreground": "#5C6BC0"
     },
-    "vim.disableExtension": false,
+    "vim.disableExtension": true,
     "dimmer.context": 10,
     "cSpell.language": "en",
     "editor.rulers": [
