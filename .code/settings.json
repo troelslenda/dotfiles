@@ -9,7 +9,7 @@
     "workbench.iconTheme": "Monokai Classic Icons",
     "workbench.activityBar.visible": true,
     "editor.minimap.enabled": false,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": -2,
     "git.autofetch": true,
     "git.confirmSync": false,
     "workbench.colorCustomizations": {
@@ -32,5 +32,6 @@
         80,
         120
     ],
-    "editor.renderWhitespace": "boundary"
+    "editor.renderWhitespace": "boundary",
+    "window.menuBarVisibility": "toggle"
 }
