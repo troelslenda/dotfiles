@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "Cobalt2",
     "editor.fontSize": 18,
     "editor.lineHeight": 32,
     "editor.fontFamily": "Anonymous Pro, monospace",
@@ -23,15 +23,35 @@
         "progressBar.background": "#5C6BC0",
         "pickerGroup.foreground": "#5C6BC0",
         "tab.activeBorder": "#5C6BC0",
-        "notificationLink.foreground": "#5C6BC0"
+        "notificationLink.foreground": "#5C6BC0",
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f"
     },
     "vim.disableExtension": true,
-    "dimmer.context": 10,
+    "dimmer.context": 5,
     "cSpell.language": "en",
     "editor.rulers": [
         80,
         120
     ],
     "editor.renderWhitespace": "boundary",
-    "window.menuBarVisibility": "toggle"
-}
+    "window.menuBarVisibility": "toggle",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shellArgs.osx": [],
+    "workbench.sideBar.location": "left",
+    "dart.flutterSdkPath": "/Applications/flutter",
+    "editor.fontLigatures": true,
+
+    "workbench.statusBar.visible": true,
+    "vim.statusBarColorControl": true,
+//    "vim.statusBarColors.normal": ["#8FBCBB", "#434C5E"],
+    "vim.statusBarColors.insert": ["#BF616A", "#000000"],
+    "vim.statusBarColors.visual": "#B48EAD",
+    "vim.statusBarColors.visualline": "#B48EAD",
+    "vim.statusBarColors.visualblock": "#A3BE8C",
+    "vim.statusBarColors.replace": "#D08770"}
